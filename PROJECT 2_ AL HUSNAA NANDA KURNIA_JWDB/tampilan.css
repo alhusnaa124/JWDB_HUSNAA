@@ -1,0 +1,38 @@
+body{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100vh;
+}
+
+.login {
+    width: 100%;
+    color: white;
+    background-color: deepskyblue;
+    border: none;
+    padding: 8px;
+}
+
+table{
+    background-color: rgb(196, 194, 194);
+    padding: 25px;
+    border-radius: 8px;
+    border-spacing: 8px;
+}
+
+.box{
+    padding: 15px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.berhasil{
+    background-color: rgb(16, 118, 16);
+    color: white;
+}
+
+.gagal{
+    background-color: red;
+    color: white;
+}
